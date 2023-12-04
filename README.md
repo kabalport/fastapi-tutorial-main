@@ -1,4 +1,4 @@
-
+ uvicorn main:app --reload 
 
 
 pip install -t lib -r requirements.txt
